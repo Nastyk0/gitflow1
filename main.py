@@ -1,1 +1,1 @@
-f = open("list.txt", encoding="utf-8")
+f = open("NastyaSchool.txt", encoding="utf-8")
