@@ -1,1 +1,1 @@
-print('hello')
+f = open("Nastya.txt", encoding="utf-8")
